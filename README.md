@@ -12,7 +12,7 @@ That’s how Bengali Brews was brewed — a complete web-based café management 
 It’s a Coffee Shop Management System that handles everything from menu items to customer feedback. Whether you’re a small café or a growing coffee chain, Bengali Brews simplifies your daily tasks and keeps everything organized in one place.
 
 # ⚙️ Key Features:
-📋 Menu management (add, edit, delete items)
+📋 Menu management (add, edit, delete items)/n 
 🛒 Order processing with automatic totals
 💳 Payment tracking (methods + status)
 👩‍🍳 Employee management (roles + access control)
